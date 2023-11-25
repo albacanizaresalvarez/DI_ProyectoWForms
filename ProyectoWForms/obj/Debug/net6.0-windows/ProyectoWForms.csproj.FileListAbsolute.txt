@@ -1,0 +1,17 @@
+C:\Users\albit\source\repos\ProyectoWForms\bin\Debug\net6.0-windows\ProyectoWForms.exe
+C:\Users\albit\source\repos\ProyectoWForms\bin\Debug\net6.0-windows\ProyectoWForms.deps.json
+C:\Users\albit\source\repos\ProyectoWForms\bin\Debug\net6.0-windows\ProyectoWForms.runtimeconfig.json
+C:\Users\albit\source\repos\ProyectoWForms\bin\Debug\net6.0-windows\ProyectoWForms.dll
+C:\Users\albit\source\repos\ProyectoWForms\bin\Debug\net6.0-windows\ProyectoWForms.pdb
+C:\Users\albit\source\repos\ProyectoWForms\obj\Debug\net6.0-windows\ProyectoWForms.Form1.resources
+C:\Users\albit\source\repos\ProyectoWForms\obj\Debug\net6.0-windows\ProyectoWForms.csproj.GenerateResource.cache
+C:\Users\albit\source\repos\ProyectoWForms\obj\Debug\net6.0-windows\ProyectoWForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albit\source\repos\ProyectoWForms\obj\Debug\net6.0-windows\ProyectoWForms.AssemblyInfoInputs.cache
+C:\Users\albit\source\repos\ProyectoWForms\obj\Debug\net6.0-windows\ProyectoWForms.AssemblyInfo.cs
+C:\Users\albit\source\repos\ProyectoWForms\obj\Debug\net6.0-windows\ProyectoWForms.csproj.CoreCompileInputs.cache
+C:\Users\albit\source\repos\ProyectoWForms\obj\Debug\net6.0-windows\ProyectoWForms.dll
+C:\Users\albit\source\repos\ProyectoWForms\obj\Debug\net6.0-windows\refint\ProyectoWForms.dll
+C:\Users\albit\source\repos\ProyectoWForms\obj\Debug\net6.0-windows\ProyectoWForms.pdb
+C:\Users\albit\source\repos\ProyectoWForms\obj\Debug\net6.0-windows\ProyectoWForms.genruntimeconfig.cache
+C:\Users\albit\source\repos\ProyectoWForms\obj\Debug\net6.0-windows\ref\ProyectoWForms.dll
+C:\Users\albit\source\repos\ProyectoWForms\obj\Debug\net6.0-windows\ProyectoWForms.Properties.Resources.resources
